@@ -1,4 +1,3 @@
-# Pusula_Emir_Erdem
 # İlaç Yan Etkileri Analizi
 # Emir Erdem - eemireerdem@gmail.com
 
